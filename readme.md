@@ -1,6 +1,13 @@
-# RandomDev 31
+# RandomDev31
 
-¡Hola!
-Este es mi perfil jeje
+¡Hi!
 
-Soy nadamas un dev que no sabe na de Python ni C++ pero igual, ya que, Disfruta de mis repos!
+Just an random dev vibecoding things (I wanna learn later 😭)
+
+* Loves mangos
+* Loves Crabs (And rust)
+* C++ meh
+* Linux fan
+  * Actually using arch (btw)
+  * 7.2.10-arch1-1
+* i said Larp 67 times!
