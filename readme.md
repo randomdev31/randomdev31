@@ -1,10 +1,9 @@
 # RandomDev31
 
-¡Hi!
+Hi!
 
 Just an random dev vibecoding things (I wanna learn later 😭)
 
-* Loves mangos
 * Loves Crabs (And rust)
 * C++ meh
 * Linux fan
